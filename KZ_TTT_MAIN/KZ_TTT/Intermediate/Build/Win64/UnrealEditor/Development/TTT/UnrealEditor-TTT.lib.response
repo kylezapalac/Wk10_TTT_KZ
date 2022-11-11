@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TTT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\TTTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\UnrealEditor\Development\TTT\MyAI.cpp.obj"
+"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\UnrealEditor\Development\TTT\TTT.cpp.obj"
+"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\UnrealEditor\Development\TTT\MyAI.gen.cpp.obj"
+"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\UnrealEditor\Development\TTT\TTT.init.gen.cpp.obj"
+"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\UnrealEditor\Development\TTT\Default.rc2.res"
+/OUT:"C:\Users\kylez\Documents\Unreal Projects\KZ_TTT\KZ_TTT_MAIN\KZ_TTT\Intermediate\Build\Win64\UnrealEditor\Development\TTT\UnrealEditor-TTT.lib"

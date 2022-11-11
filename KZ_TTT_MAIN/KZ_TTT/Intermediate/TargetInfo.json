@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TTT",
+			"Path": "C:\\Users\\kylez\\Downloads\\TTT_KZ\\TTT_KZ_MAIN\\TTT_KZ\\Source\\TTT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TTTEditor",
+			"Path": "C:\\Users\\kylez\\Downloads\\TTT_KZ\\TTT_KZ_MAIN\\TTT_KZ\\Source\\TTTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

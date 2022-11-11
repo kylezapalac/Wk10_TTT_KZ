@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kylez\\documents\\unreal projects\\kz_ttt\\kz_ttt_main\\kz_ttt\\source\\ttt\\ttt.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kylez\\documents\\unreal projects\\kz_ttt\\kz_ttt_main\\kz_ttt\\intermediate\\build\\win64\\ttteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\kylez\\documents\\unreal projects\\kz_ttt\\kz_ttt_main\\kz_ttt\\intermediate\\build\\win64\\unrealeditor\\development\\ttt\\definitions.ttt.h",
+            "c:\\users\\kylez\\documents\\unreal projects\\kz_ttt\\kz_ttt_main\\kz_ttt\\source\\ttt\\ttt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

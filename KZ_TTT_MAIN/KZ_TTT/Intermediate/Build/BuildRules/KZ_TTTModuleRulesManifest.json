@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kylez\\Documents\\Unreal Projects\\KZ_TTT\\KZ_TTT_MAIN\\KZ_TTT\\Source\\TTT\\TTT.Build.cs",
+		"C:\\Users\\kylez\\Documents\\Unreal Projects\\KZ_TTT\\KZ_TTT_MAIN\\KZ_TTT\\Source\\TTT.Target.cs",
+		"C:\\Users\\kylez\\Documents\\Unreal Projects\\KZ_TTT\\KZ_TTT_MAIN\\KZ_TTT\\Source\\TTTEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
